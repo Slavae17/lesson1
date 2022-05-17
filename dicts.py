@@ -8,3 +8,4 @@ stock = [
 ]
 
 print(type(stock))
+print(name)
